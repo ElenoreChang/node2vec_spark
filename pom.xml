@@ -17,7 +17,7 @@
         <exec-maven-plugin.version>1.4.0</exec-maven-plugin.version>
         <java.version>1.8</java.version>
         <scala.binary.version>2.11</scala.binary.version>
-        <spark.version>2.2.0</spark.version>
+        <spark.version>2.4.8</spark.version>
     </properties>
 
     <build>
